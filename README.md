@@ -16,5 +16,5 @@ You can chat real time with this protptype
 
 ## run
 
-To run the app cd to server and nodemon server
+To run the app cd to server and type 'nodemon server'
  
